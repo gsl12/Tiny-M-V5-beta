@@ -1,5 +1,7 @@
 # AB - Drives
 
+<img src="../../Images/t5_ab.png" width="200">
+
 ### BOM
 2x  Nema 17 
 2x  20T pulley  
@@ -30,6 +32,8 @@ or
 
 
 # XY - Joints
+
+<img src="../../Images/t5_xy.png" width="200">
 
 ### BOM
 
