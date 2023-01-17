@@ -52,6 +52,9 @@ or
 
 # Front Idler
 
+
+<img scr="../../Images/t5_idler.png" width="200">
+
 ### BOM
 
 
