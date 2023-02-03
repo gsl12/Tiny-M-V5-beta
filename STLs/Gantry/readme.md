@@ -72,3 +72,21 @@ Washer
 or  
 4x  M5  0.5 mm  
 2x  M5  1 mm  
+
+
+
+# Toolhead  
+
+
+<img src="../../Images/t5_th.png" width="200">
+
+### BOM
+
+
+1x 4010 radial fan  
+2x 4010 blower fan  
+6x heat inserts 4mm long    
+2x M3 Nut
+4x M3x8 SHCS    
+4x M3x50 SHCS   
+2x M3x35 SHCS   
